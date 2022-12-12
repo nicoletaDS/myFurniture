@@ -1,0 +1,4 @@
+.row{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}

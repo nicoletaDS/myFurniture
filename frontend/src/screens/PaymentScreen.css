@@ -1,0 +1,12 @@
+input[type=radio] {
+    accent-color: #333333;
+    margin-right: 8px;
+}
+
+.paymentform{
+    align-items: center;
+}
+
+.payment form label{
+    width: 6rem;
+}

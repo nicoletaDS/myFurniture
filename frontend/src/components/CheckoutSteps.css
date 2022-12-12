@@ -1,0 +1,20 @@
+.checkout-nav-body{
+    display: flex;
+    justify-content: center;
+}
+
+.checkout-nav-body a{
+    padding-right: 3px;
+    text-decoration: none;
+    color: #333333;
+    font-weight: 600;
+}
+.checkout-nav-body a:hover{
+    font-weight: 800;
+}
+
+.checkout-nav-body span{
+    padding-right: 3px;
+    color: #999999;
+}
+
