@@ -9,8 +9,8 @@ Python, Django, Django Rest Framework, PostgreSQL
 
 ### Examples from the project
 
-![home page](frontend/assets/example1.png)
-![product page](frontend/assets/example2.png)
-![cart page](frontend/assets/example3.png)
-![my profile page](frontend/assets/example4.png)
-![order details page](frontend/assets/example5.png)
+![home page](./frontend/assets/example1.png)
+![product page](./frontend/assets/example2.png)
+![cart page](./frontend/assets/example3.png)
+![my profile page](./frontend/assets/example4.png)
+![order details page](./frontend/assets/example5.png)
