@@ -1,0 +1,54 @@
+.row {
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+  background-color: white;
+  gap: 3rem;
+  padding: 2rem;
+}
+
+.section-title {
+  font-size: 35px;
+  font-weight: 300;
+}
+
+.profile {
+  max-width: 16rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#my-profile {
+  margin-top: 0;
+}
+
+#my-profile label input {
+  margin-top: 0;
+}
+
+.orders {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.my-orders {
+  width: 90%;
+  align-items: center;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.my-orders tr {
+  height: 100%;
+  border: 1px solid #eaeaea;
+  height: 2.5rem;
+  text-align: center;
+}
+
+.my-orders tr td button {
+  display: inline;
+  align-items: center;
+  height: 2rem;
+  margin: 0.5rem 0;
+}
